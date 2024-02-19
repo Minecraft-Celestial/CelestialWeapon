@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "celestial_weapon:item/xp_bottle/xp_bottle_big"
+    }
+}
